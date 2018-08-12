@@ -7,7 +7,7 @@ margin: 0;
 
 }
 
-.table {
+.container table {
 display: inline-block;
 margin-left: 300px;
 
@@ -61,6 +61,6 @@ text-align: center;
 .download button {
   width:120px;
   height: 30px;
-  background-color: yellow;
+  background-color: steelblue;
   margin: 3px;
 }
